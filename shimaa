@@ -1,0 +1,7 @@
+mkdir test
+cd test 
+git init
+touch shimaa
+git add .
+git commit -m "create repo and touch file"
+
